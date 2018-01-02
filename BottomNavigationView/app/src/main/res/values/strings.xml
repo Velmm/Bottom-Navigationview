@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNativation</string>
+    <string name="item_1">Latest</string>
+    <string name="item_2">Favorite</string>
+    <string name="item_3">Cart</string>
+    <string name="item_4">Profile</string>
+</resources>
